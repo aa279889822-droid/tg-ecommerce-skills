@@ -1,0 +1,4 @@
+interface:
+  display_name: "TG Amazon Listing Visual Builder"
+  short_description: "Build localized Amazon listing image sets and A+ page visuals."
+  default_prompt: "Use $tg-amazon-listing-visual-builder to create five main-image concepts, then build eight supporting images and an A+ page for my target market."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "TG 产品 UGC 带货视频"
+  short_description: "一张产品图生成跨境UGC带货视频导演包与即梦提示词"
+  default_prompt: "Use $tg-product-ugc-video to turn my product image into a beginner-friendly cross-border UGC video director package."

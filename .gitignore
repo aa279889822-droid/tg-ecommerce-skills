@@ -1,0 +1,18 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Generated product assets and temporary files
+finished-assets/
+_tmp*/
+*.tmp
+*.log
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
